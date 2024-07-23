@@ -1,10 +1,7 @@
-# flutter_barcode_scanner
+# custom_flutter_barcode_scanner
 
 A plugin for Flutter apps that adds barcode scanning support on both Android and iOS.
 
-[![pub package](https://img.shields.io/pub/v/flutter_barcode_scanner.svg)](https://pub.dartlang.org/packages/flutter_barcode_scanner)
-
-![Demo gif](https://github.com/AmolGangadhare/MyProfileRepo/blob/master/flutter_barcode_scanning_demo.gif "Demo")
 
 
 ## Try example
@@ -108,18 +105,3 @@ FlutterBarcodeScanner.getBarcodeStreamReceiver("#ff6666", "Cancel", false, ScanM
          /// barcode to be used
          });
 ```
-
-### Contribution:
-
-would :heart: to see any contribution, give :star:  if you like
-
-### Contact:
-
-
-<p>
-<a href="https://github.com/AmolGangadhare"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/git_hub_logo.png" width="32" height="33" style="max-width:100%;"></a>
-<a href="https://stackoverflow.com/users/9823185/amol-gangadhare" rel="nofollow"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/stack_o_logo.svg" width="36" height="36" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/amolgangadhare/" rel="nofollow"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/linked_in_logo.svg" width="36" height="36" style="max-width:100%;"></a>
-</p>
-
-E-mail: amol.gangadhare@gmail.com
