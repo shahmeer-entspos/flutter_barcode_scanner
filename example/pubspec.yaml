@@ -39,7 +39,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  custom_flutter_barcode_scanner:
+  flutter_barcode_scanner:
     path: ../
   pedantic: ^1.10.0-nullsafety.3
   # The "flutter_lints" package below contains a set of recommended lints to
